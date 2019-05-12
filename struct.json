@@ -1,0 +1,22 @@
+{
+	"integer_field": 10,
+	"boolean_field": true,
+	"my_class2": {
+		"integer_field": 100,
+		"double_field": 33.4,
+		"string_field": "inner object"
+	},
+	"my_class3": {
+		"string_list": ["str1", "str2", "str3"],
+		"str_str_map": {
+			"key1": "value1",
+			"key2": "value2",
+			"key3": "value3",
+		},
+		"str_int_map": {
+			"int1": 1,
+			"int2": 2,
+			"int3": 3
+		}
+	}
+}
